@@ -1,5 +1,8 @@
 # 🏦 Customer Loan Decision AI
+## 🌐 Live Demo
 
+[🏦 Customer Loan Decision App](https://customer-loan-ann.streamlit.app/)
+## 🖥️ Application Screenshot
 A deep-learning project that uses **PyTorch Artificial Neural Networks (ANNs)** to predict loan approval and estimate the loan amount.
 
 ## 🚀 Project Overview
